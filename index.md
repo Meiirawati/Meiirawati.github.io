@@ -9,7 +9,7 @@
 
 ---
 [Project 2 Latihan_DBSCAN](https://colab.research.google.com/drive/1U-5VLEYZTinQp7WBwDropFbqxk0TTFIp)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/project 2.png?raw=true"/>
 
 ---
 [Project 3 Title](http://example.com/)
