@@ -4,7 +4,7 @@
 
 ### Category 1
 
-[Project 1 Association Rule Mining pada Data Transaksi Penjualan (Algoritma Apriori)](https://colab.research.google.com/drive/1PItmImER1ynUEqY-RMZhcb1bR3Gfw9EA/)
+[Project 1 Association Rule Mining pada Data Transaksi Penjualan (Algoritma Apriori)](https://colab.research.google.com/drive/1PItmImER1ynUEqY-RMZhcb1bR3Gfw9EA)
 <img src="images/project 1.png?raw=true"/>
 
 ---
