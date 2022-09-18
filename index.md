@@ -8,7 +8,7 @@
 <img src="images/project 1.png?raw=true"/>
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
+[Project 2 Latihan_DBSCAN](https://colab.research.google.com/drive/1U-5VLEYZTinQp7WBwDropFbqxk0TTFIp)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
