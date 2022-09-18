@@ -2,9 +2,9 @@
 
 ---
 
-### Data Analytics 1
+### Category 1
 
-[Project 1 Title](/sample_page)
+[Project 1 Association Rule Mining pada Data Transaksi Penjualan (Algoritma Apriori)](/sample_page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
