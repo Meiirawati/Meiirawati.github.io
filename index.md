@@ -12,7 +12,7 @@
 <img src="images/project 2.png?raw=true"/>
 
 ---
-[Project 3 Title](http://example.com/)
+[Project 3 Prediksi POla Request Bucket (Regresi Linier)](https://colab.research.google.com/drive/1iC0bDryuJ8jtD-0Rl4SBGWoYCAk-oHoC)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
